@@ -1,7 +1,7 @@
 # 20250721-GH900
 20250721-GH900
 
-## Moduel 01
+## Module 01
 Intro to Git
 
 ## Module 02
